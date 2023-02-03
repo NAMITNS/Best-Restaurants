@@ -31,3 +31,5 @@ My analysis:
 5.	Rating & Price range has a moderate positive correlation. It can be a deciding factor
 6.	Relation between Rating & Number of cuisines is poor. Hence number of cuisines cannot be the deciding factor for restaurant rating.
 7.	No factors have strong correlation with Rating. However, Votes & price range can be considered of having moderate impact on Rating
+
+All the information gathered here will lead to a better understanding of the data and allow for a better implementation of ML models.
